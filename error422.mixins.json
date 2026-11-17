@@ -1,0 +1,42 @@
+{
+  "required": false,
+  "package": "nl.melonstudios.error422.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "priority": -2147483648,
+  "mixins": [
+    "common.BedBlockMixin",
+    "common.BlockItemMixin",
+    "common.BushBlockMixin",
+    "common.CactusBlockMixin",
+    "common.ClientTooltipFlagMixin",
+    "common.CreeperMixin",
+    "common.CropBlockMixin",
+    "common.ItemStackMixin",
+    "common.ModCheckMixin",
+    "common.SharedConstantsMixin",
+    "common.TooltipFlag$DefaultMixin"
+  ],
+  "client": [
+    "client.AbstractButtonMixin",
+    "client.AccessibilityOnboardingScreenMixin",
+    "client.DeathScreenMixin",
+    "client.DebugScreenOverlayMixin",
+    "client.GameRendererMixin",
+    "client.GuiMixin",
+    "client.HumanoidModelMixin",
+    "client.IconSetMixin",
+    "client.KeyboardHandlerMixin",
+    "client.LevelRendererMixin",
+    "client.LoadingOverlayMixin",
+    "client.LogoRendererMixin",
+    "client.MinecraftMixin",
+    "client.MouseHandlerMixin",
+    "client.PauseScreenMixin",
+    "client.RenderTypeMixin",
+    "client.ScreenMixin",
+    "client.SectionRendererDispatcher$RenderSectionMixin",
+    "client.TitleScreenMixin",
+    "client.WorldCreationUiStateMixin",
+    "client.RenderBuffersMixin"
+  ]
+}

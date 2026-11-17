@@ -1,0 +1,6 @@
+{
+  "entity.error422.the_entity_crash": "ERROR422 crashmanifestatie",
+  "entity.error422.the_entity_kill": "ERROR422 moordmanifestatie",
+  "entity.error422.the_entity_boss_fight": "ERROR422 baasgevechtmanifestatie",
+  "undefined": "Ongeidentificeerd"
+}

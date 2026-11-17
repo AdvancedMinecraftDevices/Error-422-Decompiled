@@ -1,0 +1,30 @@
+{
+  "g": {
+    "sounds": [
+      "error422:g"
+    ]
+  },
+  "g422": {
+    "sounds": [
+      "error422:g422"
+    ]
+  },
+  "n": {
+    "sounds": [
+      "error422:n"
+    ],
+    "stream": true
+  },
+  "te": {
+    "sounds": [
+      "error422:te"
+    ],
+    "stream": true
+  },
+  "th": {
+    "sounds": [
+      "error422:th"
+    ],
+    "stream": true
+  }
+}
